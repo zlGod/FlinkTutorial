@@ -1,5 +1,5 @@
 package flink.apitest.beans;
-
+//SensorReading实体类
 public class SensorReading {
     private String id;
     private Long timestamp;
